@@ -15,14 +15,13 @@
 }
 
 .logo {
-    width: 40px;
+    width: 200px;
     margin-top: 20px;
     border-radius: 20px;
 }
 
 .image-text{
     display: flex;
-    color: white;
 }
 
 .side-text {
@@ -155,8 +154,22 @@ nav ul li a {
 
 .sunrise {
     float: left;
-    width: 35%;
-    height: 40%;
+    width: 35vw;
+    height: 50vh;
     margin: 140px 0px 0px 100px;
-    /* margin-left: 100px; */
+}
+
+.explore {
+    margin-top: 55vh;
+    margin-left: 125px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.arrows {
+    padding-left: 900px;
 }
