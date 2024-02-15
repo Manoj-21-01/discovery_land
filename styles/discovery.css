@@ -173,3 +173,89 @@ nav ul li a {
 .arrows {
     padding-left: 900px;
 }
+
+.bottom {
+    margin-bottom: 40%;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 30%;
+    height: 2%;
+}
+
+.img1 {
+    background-image: url(https://discoverylandco.com/imager/images/208/ironhorse-carousel_397186feb8bd51bb37bc24fc2b9b500f.jpg);
+    color: white;
+    width: 350px;
+    height: 400px;
+    padding: 65% 15% 0% 7.5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 2%;
+}
+
+.img2 {
+    background-image: url(https://discoverylandco.com/imager/images/14898/Screen-Shot-2023-08-29-at-1.47.55-PM_397186feb8bd51bb37bc24fc2b9b500f.png);
+    color: white;
+    width: 350px;
+    height: 400px;
+    padding: 65% 15% 0% 7.5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 2%;
+}
+
+.img3 {
+    background-image: url(https://discoverylandco.com/imager/images/206/Grande-carousel_397186feb8bd51bb37bc24fc2b9b500f.jpg);
+    color: white;
+    width: 450px;
+    height: 400px;
+    padding: 65% 15% 0% 7.5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 2%;
+}
+
+.lord h2 {
+    margin-left: 125px;
+    margin-top: 125px;
+}
+.lord h3 {
+    margin-left: 125px;
+}
+.lord h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lord p{
+    margin: 40px 0px 60px 125px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.globedata {
+    display: flex;
+}
+.globe {
+    z-index: -2;
+}
+.blackscreen {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg);
+    z-index: -1;
+    margin-left: -3%;
+    width: 425px;
+    height: 600px;
+    color: white;
+}
+
+.imagecontent {
+    margin: 60px 50px;
+    font-size: 30px;
+}
+
+.climate {
+    margin-left: 50px;
+    font-size: 30px;
+}
