@@ -239,6 +239,7 @@ nav ul li a {
     display: flex;
 }
 .globe {
+    margin-left: -2%;
     z-index: -2;
 }
 .blackscreen {
@@ -255,7 +256,137 @@ nav ul li a {
     font-size: 30px;
 }
 
-.climate {
+#climate {
     margin-left: 50px;
     font-size: 30px;
+}
+
+#sun {
+    padding-right: 10%;
+}
+
+#wind {
+    padding-right: 10%;
+}
+
+.climatenames {
+    margin-left: 45px;
+    opacity: 0.5;
+}
+
+.wind {
+    margin-left: 6.5%;
+}
+
+.compass{
+    margin-left: 27px;
+}
+
+.place {
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+#text {
+    opacity: 0.5;
+    font-size: 20px;
+}
+
+#text1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#loc {
+    opacity: 0.5;
+}
+
+.events {
+    display: flex;
+    margin-top: -3%;
+    color: white;
+}
+
+.experience {
+    background-image: url(https://discoverylandco.com/imager/images/11020/amazing-pool-2_fc98236fcd7afd38ca0fd181cf61bcb6.jpg);
+    width: 100vw;
+    height: 100vh;
+}
+
+.lifestyle {
+    background-image: url(https://discoverylandco.com/imager/images/729/lifestyle_slider_190716_095537_fc98236fcd7afd38ca0fd181cf61bcb6.jpg);
+    width: 100vw;
+    height: 100vh;
+}
+
+.wellness {
+    background-image: url(https://discoverylandco.com/imager/images/14860/Screen-Shot-2023-08-29-at-12.29.27-PM_fc98236fcd7afd38ca0fd181cf61bcb6.png);
+    width: 100vw;
+    height: 100vh;
+}
+
+.events p{
+    display: flex;
+    justify-content: center;
+    margin-top: 55%;
+    font-size: 40px;
+}
+
+.events i {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+
+.contact {
+    background-color: #161f1e;
+    width: 100vw;
+    height: 90vh;
+    color: white;
+}
+
+.logos {
+    padding: 125px 100px;
+    display: flex;
+}
+
+.git {
+    padding-left: 40%;
+    line-height: 250%;
+}
+
+.about {
+    padding-left: 15%;
+    line-height: 250%;
+}
+
+.careers {
+    padding-left: 3%;
+    line-height: 250%;
+}
+
+#connect {
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+#re {
+    line-height: 500%;
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+#remail {
+    line-height: 0%;
+}
+
+.last {
+    display: flex;
+    margin-left: 8%;
+    opacity: 0.8;
+    font-size: 15px;
+}
+
+#site {
+    margin-left: 58%;
 }
