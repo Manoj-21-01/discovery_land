@@ -160,7 +160,7 @@ nav ul li a {
 }
 
 .explore {
-    margin-top: 55vh;
+    margin-top: 70vh;
     margin-left: 125px;
     font-size: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -171,7 +171,7 @@ nav ul li a {
 }
 
 .arrows {
-    padding-left: 900px;
+    padding-left: 800px;
 }
 
 .bottom {
@@ -180,6 +180,7 @@ nav ul li a {
 
 .images {
     display: flex;
+    margin-top: 3%;
     flex-direction: row;
     justify-content: space-evenly;
     width: 30%;
@@ -344,7 +345,7 @@ nav ul li a {
 .contact {
     background-color: #161f1e;
     width: 100vw;
-    height: 90vh;
+    height: auto;
     color: white;
 }
 
