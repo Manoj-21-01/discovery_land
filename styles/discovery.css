@@ -389,8 +389,14 @@ nav ul li a {
     margin-left: 8%;
     opacity: 0.8;
     font-size: 15px;
+    padding-bottom: 3%;
 }
 
 #site {
     margin-left: 58%;
+}
+
+#link {
+    text-decoration: none;
+    color: white;
 }
