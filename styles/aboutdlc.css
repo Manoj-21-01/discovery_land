@@ -450,3 +450,15 @@ nav ul li a {
 #site {
     margin-left: 58%;
 }
+#world-link {
+    text-decoration: none;
+    color: white;
+}
+#dlc-link {
+    text-decoration: none;
+    color: white;
+}
+#experiences-link {
+    text-decoration: none;
+    color: white;
+}
