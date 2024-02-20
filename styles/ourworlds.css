@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 1200px;
+    overflow-x: hidden;
+    position: relative;
+    display: flex;
+    padding: 230px 10px;
+    background-color: black;
+}
+.logo {
+    width: 200px;
+    margin-top: 30px;
+    margin-left: -20px;
+    border-radius: 20px;
+}
+.image-text{
+    display: flex;
+}
+nav {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.wrap-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.wrap-items .place{
+    color: white;
+    margin-top: 15px;
+}
+
+.wrap-items .name {
+    color: white;
+    opacity: 0.5;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+.contact {
+    background-color: #161f1e;
+    width: 100%;
+    height: auto;
+    color: white;
+}
+
+.logos {
+    padding: 125px 100px;
+    display: flex;
+}
+
+.git {
+    padding-left: 45%;
+    line-height: 250%;
+}
+
+.about {
+    padding-left: 15%;
+    line-height: 250%;
+}
+
+.careers {
+    padding-left: 5%;
+    line-height: 250%;
+}
+
+#connect {
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+#re {
+    line-height: 500%;
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+#remail {
+    line-height: 0%;
+}
+
+.last {
+    display: flex;
+    margin-left: 8%;
+    opacity: 0.8;
+    font-size: 15px;
+    padding-bottom: 4%;
+}
+
+#site {
+    margin-left: 58%;
+}
+
+#link {
+    text-decoration: none;
+    color: white;
+}
+
+#world {
+    text-decoration: none;
+    color: white;
+}
+
+#experience {
+    text-decoration: none;
+    color: white;
+}
